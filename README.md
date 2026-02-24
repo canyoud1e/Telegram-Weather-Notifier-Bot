@@ -45,5 +45,5 @@
 ### 1️⃣ Клонировать репозиторий
 
 ```bash
-git clone https://github.com/yourusername/weather-telegram-bot.git
-cd weather-telegram-bot
+git clone https://github.com/canyoud1e/Telegram-Weather-Bot
+cd Telegram-Weather-Bot
